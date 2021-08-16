@@ -12,6 +12,8 @@
 
 body {
   font-family: "Kanit", sans-serif;
+  background: black;
+  color: white;
 }
 
 body::-webkit-scrollbar {
